@@ -2,7 +2,7 @@ appName: junior-copper
 appUniqueId: faisalarrowai/junior-copper
 appInfo:
   description: This app will create slides presentation for you.
-  appVersion: 1.0.1
+  appVersion: 1.0.2
   appRepoUrl: https://github.com/faisalarrowai/29.git
   appIconUrl: https://storage.googleapis.com/codeboltai.appspot.com/agents/8GXuJ6XQv4.png
   appAuthorUserId: faisalarrowai
